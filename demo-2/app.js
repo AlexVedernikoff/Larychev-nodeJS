@@ -1,3 +1,4 @@
+// CommonJS modules (012 lection)
 const { chatacters, stealRing } = require("./characters.js");
 
 let myChars = chatacters;
